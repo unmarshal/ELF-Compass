@@ -1,0 +1,6 @@
+Elf Compass sets breakpoints on all functions in a program and logs them
+so you can easily reverse engineer software and map their control flows.
+It was written for ELF binaries on Linux. I'm uploading this for reference
+purposes only. I'm sure it could be updated to work on modern 64 bit machines.
+
+- Marshall Beddoe (unmarshal@gmail.com)
